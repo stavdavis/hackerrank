@@ -39,7 +39,4 @@ function main() {
     a = a.map(Number);
     var result = leftRotation(a, d);
     console.log(result.join(" "));
-
-
-
 }
